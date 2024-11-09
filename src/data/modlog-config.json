@@ -1,0 +1,11 @@
+{
+  "1274723799773872188": {
+    "channelId": "1274914843270316103",
+    "permissions": {
+      "viewChannel": true,
+      "sendMessages": true,
+      "embedLinks": true,
+      "readMessageHistory": true
+    }
+  }
+}
