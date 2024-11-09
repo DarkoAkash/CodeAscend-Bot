@@ -50,7 +50,7 @@ CodeAscend is a next-generation AI-powered Discord bot that transforms server ma
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/CodeAscend.git
+git clone https://github.com/DarkoAkash/CodeAscend.git
 
 # Navigate to project directory
 cd CodeAscend
